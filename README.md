@@ -75,7 +75,7 @@ nexus-network logout
 ```
 ❗ Important Notes
 If you’ve used an older CLI version, you must reinstall the latest CLI with:
-![4c7e2d00f7037f5d2612](https://github.com/user-attachments/assets/9087a96b-6cba-4f0f-ac8a-b48b9efb9cf7)
+
 
 ```bash
 curl https://cli.nexus.xyz/ | sh
@@ -85,10 +85,17 @@ curl https://cli.nexus.xyz/ | sh
 
 Proofs submitted from older CLI versions will not be counted in Testnet III.
 
+Check your node’s status and score as shown below.
 
 
 
 
+![fb91f6143517bd49e406](https://github.com/user-attachments/assets/7d30e642-b43f-4d8d-b71d-033ad2fc93b2)
 
 
 
+Your NEX balance will be displayed here.
+
+
+
+![570cc4d709d4818ad8c5](https://github.com/user-attachments/assets/e474770e-379c-4b43-ae11-cbc7e992373c)
