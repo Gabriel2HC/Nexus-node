@@ -76,3 +76,7 @@ curl https://cli.nexus.xyz/ | sh
 
 
 Proofs submitted from older CLI versions will not be counted in Testnet III.
+
+<img width="2048" height="2048" alt="Nexus" src="https://github.com/user-attachments/assets/4c1f25ed-34f4-424d-8b21-2bda17390316" />
+
+
