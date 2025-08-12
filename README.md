@@ -66,6 +66,8 @@ No account required
 
 You will not earn rewards
 
+Check your node’s status and score as shown below.
+
 Step 4 – Log Out (Optional)
 
 ```bash
@@ -73,6 +75,7 @@ nexus-network logout
 ```
 ❗ Important Notes
 If you’ve used an older CLI version, you must reinstall the latest CLI with:
+![4c7e2d00f7037f5d2612](https://github.com/user-attachments/assets/9087a96b-6cba-4f0f-ac8a-b48b9efb9cf7)
 
 ```bash
 curl https://cli.nexus.xyz/ | sh
