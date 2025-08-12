@@ -37,6 +37,11 @@ Start your node:
 ```bash
 nexus-network start --node-id <replace your node ID>
 ```
+If your node displays this, it means it's running successfully.
+
+![1ae06468476bcf35967a](https://github.com/user-attachments/assets/6640788f-da0c-4a58-980f-3d64b2b5a3a7)
+
+
 Your credentials will be saved in:
 
 ```bash
@@ -77,6 +82,10 @@ curl https://cli.nexus.xyz/ | sh
 
 Proofs submitted from older CLI versions will not be counted in Testnet III.
 
-<img width="2048" height="2048" alt="Nexus" src="https://github.com/user-attachments/assets/4c1f25ed-34f4-424d-8b21-2bda17390316" />
+
+
+
+
+
 
 
