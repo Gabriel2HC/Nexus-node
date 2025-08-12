@@ -35,7 +35,7 @@ Start your node:
 
 
 ```bash
-nexus-network start
+nexus-network start --node-id <replace your node ID>
 ```
 Your credentials will be saved in:
 
